@@ -1,0 +1,6 @@
+Cahier des charges
+
+- Choisir le langage de programmation
+	- Le c# me paraît approprié.
+
+- Appeler le 1er commit de Lio "Première ébauche"
